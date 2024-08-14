@@ -1,0 +1,6 @@
+langchain-community==0.2.11
+langchain==0.2.12
+langchain-google-genai==1.0.8
+python-dotenv==1.0.1
+streamlit==1.37.1
+faiss-cpu==1.8.0.post1
